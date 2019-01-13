@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.11",
+    "pigeon-maps": "^0.11.10",
+    "pigeon-marker": "^0.3.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
